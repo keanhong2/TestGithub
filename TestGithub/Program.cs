@@ -11,7 +11,7 @@ namespace TestGithub
             Console.WriteLine("new change now after first V1");
             Console.WriteLine("Now is the 2nd change V2");
             Console.WriteLine("now make  version 2 ");
-            Console.WriteLine("now done wanted to end here , bye");
+            Console.WriteLine("now done wanted to end here ");
 
         }
     }
