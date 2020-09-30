@@ -8,7 +8,8 @@ namespace TestGithub
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("here is a change!");
-            Console.WriteLine("new change now after first ");
+            Console.WriteLine("new change now after first V1");
+            Console.WriteLine("Now is the 2nd change V1");
         }
     }
 }
